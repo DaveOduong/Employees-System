@@ -10,6 +10,10 @@ A web-based Employee Management System developed using HTML, CSS, JavaScript, PH
 - PHP – Handles database operations and CRUD functionality.
 - MySQL – Stores employee information.
 
+## Preview
+<img width="1312" height="984" alt="image" src="https://github.com/user-attachments/assets/1d8307e3-f723-4a34-a215-64c20ff3356e" />
+<img width="1318" height="337" alt="image" src="https://github.com/user-attachments/assets/97b00bfb-cf9e-4694-993c-0ac2348aeacc" />
+
 ## Features
 1. Register new employees.
 2. Validate required fields.
@@ -59,3 +63,6 @@ To develop a simple web-based system that demonstrates form creation, input vali
 ## Author
 Student Practical Project Dave Oduong
 :::
+
+
+
